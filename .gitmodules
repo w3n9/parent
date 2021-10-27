@@ -1,0 +1,6 @@
+[submodule "sub-1"]
+	path = sub-1
+	url = git@github.com:FromMeToMyself/sub-1.git
+[submodule "sub-2"]
+	path = sub-2
+	url = git@github.com:FromMeToMyself/sub-2.git
